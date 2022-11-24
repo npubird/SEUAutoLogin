@@ -5,7 +5,7 @@
     },
     "dailyReport": {
         "school": {
-            "DZ_JSDTCJTW": 36.5,
+            "DZ_JSDTCJTW": 36,
             "DZ_SZWZLX": "002",
             "DZ_SZWZLX_DISPLAY": "在校内",
             "LOCATION_PROVINCE_CODE": "",
@@ -18,7 +18,7 @@
             "DZ_SZXQ_DISPLAY": "九龙湖校区"
         },
         "home": {
-            "DZ_JSDTCJTW": 36.555,
+            "DZ_JSDTCJTW": 36,
             "DZ_SZWZLX": "003",
             "DZ_SZWZLX_DISPLAY": "在校外(在南京以外)",
             "LOCATION_PROVINCE_CODE": "110100",
